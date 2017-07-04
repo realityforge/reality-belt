@@ -1,9 +1,9 @@
-/pkg
-/rdoc
-/*.iml
+*.iml
 /*.ipr
 /*.iws
+/.rakeTasks
 /Gemfile.lock
-/_zim.rb
-/tmp
 /patch.diff
+/pkg
+/rdoc
+/tmp
