@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
   s.summary            = %q{A super simple domain model to represent projects.}
   s.description        = %q{A super simple domain model to represent projects.}
 
-  s.rubyforge_project  = %q{reality-belt}
   s.licenses           = ['Apache-2.0']
 
   s.files              = `git ls-files`.split("\n")
